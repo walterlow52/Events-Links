@@ -1,1 +1,1 @@
-
+document.getElementbyID("list") = Date();
