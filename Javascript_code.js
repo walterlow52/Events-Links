@@ -1,1 +1,1 @@
-document.getElementbyID("list") = Date();
+document.getElementbyID("list").innerHTML = Date();
